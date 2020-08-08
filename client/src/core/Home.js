@@ -18,9 +18,9 @@ class Home extends Component {
     const {err, msg} = this.state;
     return (
       <div>
-        <div className="jumbotron background">
-          <h2 className="text-white">POSTCARDS</h2>
-          <p className="text-light">A social network to share logistics. Create, Post, Read</p>
+        <div className="jumbotron">
+          <h2 className="text-dark">POSTCARDS</h2>
+          <p className="text-muted">A social network to share logistics. Create, Post, Read</p>
         </div>
         <div className="container-fluid">
           {alerts(err, msg)}
