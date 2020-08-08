@@ -1,19 +1,19 @@
 # postcards
 A social networking site for posting logistics.
 
-# For functioning, follow these steps after firing up the nodeapi folder in VS code.
+# For functioning, follow these steps after firing up the "postcards" folder in VS code.
 
-# 1. Open terminal on the root folder "nodeapi" and give the below command to install node_modules:
+# 1. Open terminal on the root folder "postcards" and give the below command to install node_modules:
 npm install
 
 
-# 2. Move to client directory by terminal from nodeapi root folder:
-cd client
+# 2. Move to client directory by terminal from "postcards" folder:
+cd client/
 
 # 3. Install node_modules in client directory:
 npm install
 
-# 4. move back to root directory "nodeapi":
+# 4. move back to root directory "postcards":
 cd ..
 
 # 5. Run both client and backend by one command:
