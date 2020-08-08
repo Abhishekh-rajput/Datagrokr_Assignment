@@ -1,0 +1,14 @@
+.card-hover:hover{
+    box-shadow: 1px 1px 10px rgb(145, 143, 143);
+    transition: .5s;
+  }
+
+  .hover:hover{
+    cursor: pointer;
+  }
+
+  .background{
+        background-image: url("../src/images/b11.jpg");
+        background-repeat: no-repeat;      
+        background-size: cover;
+  }
