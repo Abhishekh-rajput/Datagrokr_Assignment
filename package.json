@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
-  "author": "Ashutosh Khajuria",
+  "author": "Abhishek Kumar Singh",
   "license": "ISC",
   "dependencies": {
     "concurrently": "^5.3.0",
